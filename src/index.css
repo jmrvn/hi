@@ -8,7 +8,7 @@ body{
 
 /* index.css */
 
-@keyframes spin-variable-speed {
+/* @keyframes spin-variable-speed {
     0% {
       transform: rotate(0deg);
     }
@@ -19,8 +19,8 @@ body{
       transform: rotate(360deg);
     }
   }
-  
+   */
   /* Define your custom class using the keyframes */
-  .animate-spin-variable-speed {
+  /* .animate-spin-variable-speed {
     animation: spin-variable-speed 2s cubic-bezier(0.4, 0, 0.2, 1) infinite;
-  }
+  } */
